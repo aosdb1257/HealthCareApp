@@ -23,11 +23,11 @@
 | 구분 | 기술 |
 |------|------|
 | **Frontend** | Android Studio |
-| **Backend** | Spring Boot, Hibernate, Spring Legacy (MVC), Java 11, Servlet |
-| **Database** | Oracle 11g XE, MySQL |
-| **Infra** | AWS EC2 (Ubuntu), Amazon RDS |
-| **API** | Kakao 지도 API, Google/Kakao/Naver 소셜 로그인 |
-| **Tool** | GitHub, MobaXterm, MyBatis |
+| **Backend** | Spring Boot, Hibernate, Java 11, RESTful API|
+| **Database** | Oracle 11g XE |
+| **Infra** | AWS EC2 (Ubuntu) |
+| **API** | Kakao 지도 API |
+| **Tool** | GitHub |
 
 ---
 
@@ -78,7 +78,7 @@
 
 - [ ] Firebase 연동을 통한 실시간 알림 기능
 - [ ] 사용자 건강 이력 기반 통계/추천 알고리즘 적용
-- [ ] UI/UX 디자인 고도화 및
+- [ ] UI/UX 디자인 고도화
 
 ---
 
